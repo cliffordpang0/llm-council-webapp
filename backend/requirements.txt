@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+langchain-ollama
+langchain-core
+langchain
+httpx
